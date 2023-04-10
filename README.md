@@ -13,7 +13,7 @@ Thank you for choosing NotKenetic We look forward to your continued support and 
 
 Best regards,
 Lemy, at
-NotKenetic.github.io
+NotKenetic
 
 
 
