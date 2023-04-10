@@ -39,29 +39,3 @@ NotKenetic
 </body>
 </html>
 
-
-<html>
-<head>
-    <title>OvO 3</title>
-</head>
-<body>
-
-<!-- Button Element -->
-<button id="transferButton">Play OvO 3 Unblocked</button>
-
-<!-- JavaScript Code -->
-<script>
-    // Get the button element by its ID
-    var transferButton = document.getElementById("transferButton");
-    
-    // Add a click event listener to the button
-    transferButton.addEventListener("click", function() {
-        // Redirect to the desired URL
-        window.location.href = "https://notkenetic.github.io/ovo3.html"; // Replace with your desired URL
-    });
-</script>
-
-</body>
-</html>
-
-
