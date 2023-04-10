@@ -15,11 +15,7 @@ Best regards,
 Lemy, at
 NotKenetic
 
-<html>
-    <body>
-        <script src="https://chatwee-api.com/v2/script/64346909029bba00cc0fe0ea.js"></script>
-    </body>
-</html>
+
 
 
 <html>
