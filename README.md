@@ -15,6 +15,30 @@ Best regards,
 Lemy, at
 NotKenetic
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Slope</title>
+</head>
+<body>
+
+<!-- Button Element -->
+<button id="transferButton">Play Slope Unblocked</button>
+
+<!-- JavaScript Code -->
+<script>
+    // Get the button element by its ID
+    var transferButton = document.getElementById("transferButton");
+    
+    // Add a click event listener to the button
+    transferButton.addEventListener("click", function() {
+        // Redirect to the desired URL
+        window.location.href = "https://notkenetic.github.io/slope.html"; // Replace with your desired URL
+    });
+</script>
+
+</body>
+</html>
 
 
 
