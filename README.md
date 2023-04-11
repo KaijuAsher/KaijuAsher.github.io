@@ -96,7 +96,7 @@ NotKenetic
 
 <html>
 <head>
-  <title>My Page</title>
+  <title>Cloakers</title>
   <link rel="icon" type="image/png" href="favicon.png">
   <script>
     function changeTab(title, favicon) {
@@ -109,13 +109,6 @@ NotKenetic
 <body>
   <button onclick="changeTab('Games', 'https://static.wikia.nocookie.net/logopedia/images/1/1c/Coolmath_Games_2018_Icon.png/revision/latest?cb=20220528144902')">Cloaker Games</button>
   <button onclick="changeTab('Youtube', 'https://cdn-icons-png.flaticon.com/512/1384/1384060.png')">CLoaker Youtube</button>
-  <button onclick="changeTab('New Title 3', 'newfavicon3.png')">Change Tab 3</button>
-  <button onclick="changeTab('New Title 4', 'newfavicon4.png')">Change Tab 4</button>
-  <button onclick="changeTab('New Title 5', 'newfavicon5.png')">Change Tab 5</button>
-  <button onclick="changeTab('New Title 6', 'newfavicon6.png')">Change Tab 6</button>
-  <button onclick="changeTab('New Title 7', 'newfavicon7.png')">Change Tab 7</button>
-  <button onclick="changeTab('New Title 8', 'newfavicon8.png')">Change Tab 8</button>
-  <button onclick="changeTab('New Title 9', 'newfavicon9.png')">Change Tab 9</button>
-  <button onclick="changeTab('New Title 10', 'newfavicon10.png')">Change Tab 10</button>
+
 </body>
 </html>
