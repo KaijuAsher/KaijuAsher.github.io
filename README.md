@@ -1,7 +1,7 @@
-# NotKenetic.github.io
+# KaijuAsher and Lemy
 Dear Gamers,
 
-Welcome to NotKenetic! We are thrilled to have you here and are excited to be a part of your gaming journey.
+Welcome to KaijuAsher! We are thrilled to have you here and are excited to be a part of your gaming journey.
 
 Here at NotKenetic, we understand the importance of having a platform where you can connect with like-minded individuals, play your favorite games, and stay up-to-date on the latest gaming news and trends. That’s why we have created this website, to bring you the ultimate gaming experience.
 
@@ -53,7 +53,7 @@ NotKenetic
     // Add a click event listener to the button
     transferButton.addEventListener("click", function() {
         // Redirect to the desired URL
-        window.location.href = "https://notkenetic.github.io/slope.html"; // Replace with your desired URL
+        window.location.href = "https://kaijuasher.github.io/slope.html"; // Replace with your desired URL
     });
 </script>
 
