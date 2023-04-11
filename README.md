@@ -35,7 +35,7 @@ NotKenetic
   </script>
 </head>
 <body>
-  <button onclick="changeTab()">Change Tab</button>
+  <button onclick="changeTab()">Classes Cloaker</button>
 </body>
 </html>
 
@@ -57,7 +57,7 @@ NotKenetic
   </script>
 </head>
 <body>
-  <button onclick="changeTab()">Change Tab</button>
+  <button onclick="changeTab()">Google Cloaker</button>
 </body>
 </html>
 
