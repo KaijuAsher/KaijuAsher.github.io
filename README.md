@@ -24,6 +24,51 @@ NotKenetic
 
 <html>
 <head>
+  <title>Classes Cloak</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <script>
+    function changeTab() {
+      document.title = "Classes";
+      var favicon = document.querySelector('link[rel="icon"]');
+      favicon.href = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Google_Classroom_Logo.svg/512px-Google_Classroom_Logo.svg.png?20221017163738";
+    }
+  </script>
+</head>
+<body>
+  <button onclick="changeTab()">Change Tab</button>
+</body>
+</html>
+
+
+
+
+
+
+<html>
+<head>
+  <title>Classes Cloak</title>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <script>
+    function changeTab() {
+      document.title = "Classes";
+      var favicon = document.querySelector('link[rel="icon"]');
+      favicon.href = "https://cdn-icons-png.flaticon.com/512/2991/2991148.png";
+    }
+  </script>
+</head>
+<body>
+  <button onclick="changeTab()">Change Tab</button>
+</body>
+</html>
+
+
+
+
+
+
+
+<html>
+<head>
     <title>Slope</title>
 </head>
 <body>
