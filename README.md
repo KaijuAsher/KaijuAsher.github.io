@@ -108,7 +108,7 @@ NotKenetic
 </head>
 <body>
   <button onclick="changeTab('Games', 'https://static.wikia.nocookie.net/logopedia/images/1/1c/Coolmath_Games_2018_Icon.png/revision/latest?cb=20220528144902')">Cloaker Games</button>
-  <button onclick="changeTab('Youtube', 'https://cdn-icons-png.flaticon.com/512/1384/1384060.png')">CLoaker Youtube</button>
+  <button onclick="changeTab('Youtube', 'https://cdn-icons-png.flaticon.com/512/1384/1384060.png')">Cloaker Youtube</button>
 
 </body>
 </html>
