@@ -22,44 +22,13 @@ NotKenetic
 </html>
 
 
-<html>
-<head>
-  <title>Classes Cloak</title>
-  <link rel="icon" type="image/png" href="favicon.png">
-  <script>
-    function changeTab() {
-      document.title = "Classes";
-      var favicon = document.querySelector('link[rel="icon"]');
-      favicon.href = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxl9AdlpZuyrwP8HeX_payem7KHA3KJawKWKaq17pMA&s";
-    }
-  </script>
-</head>
-<body>
-  <button onclick="changeTab()">Classes Cloaker</button>
-</body>
-</html>
 
 
 
 
 
 
-<html>
-<head>
-  <title>Classes Cloak</title>
-  <link rel="icon" type="image/png" href="favicon.png">
-  <script>
-    function changeTab() {
-      document.title = "Google";
-      var favicon = document.querySelector('link[rel="icon"]');
-      favicon.href = "https://cdn-icons-png.flaticon.com/512/2991/2991148.png";
-    }
-  </script>
-</head>
-<body>
-  <button onclick="changeTab()">Google Cloaker</button>
-</body>
-</html>
+
 
 
 
@@ -108,7 +77,9 @@ NotKenetic
 </head>
 <body>
   <button onclick="changeTab('Games', 'https://static.wikia.nocookie.net/logopedia/images/1/1c/Coolmath_Games_2018_Icon.png/revision/latest?cb=20220528144902')">Cloaker Games</button>
-  <button onclick="changeTab('Youtube', 'https://cdn-icons-png.flaticon.com/512/1384/1384060.png')">Cloaker Youtube</button>
-
+ 
+     <button onclick="changeTab('Classes', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxl9AdlpZuyrwP8HeX_payem7KHA3KJawKWKaq17pMA&s')">Cloaker Classes</button>
+ <button onclick="changeTab('Google', 'https://cdn-icons-png.flaticon.com/512/2991/2991148.png')">Cloaker Google</button>
+    
 </body>
 </html>
