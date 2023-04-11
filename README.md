@@ -50,7 +50,7 @@ NotKenetic
   <link rel="icon" type="image/png" href="favicon.png">
   <script>
     function changeTab() {
-      document.title = "Classes";
+      document.title = "Google";
       var favicon = document.querySelector('link[rel="icon"]');
       favicon.href = "https://cdn-icons-png.flaticon.com/512/2991/2991148.png";
     }
