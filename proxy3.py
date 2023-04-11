@@ -21,7 +21,7 @@ def proxy_server(host, port):
         
         # forward the request to the destination server
         destination_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        destination_socket.connect(('www.example.com', 80))
+        destination_socket.connect(('youtube.com', 80))
         destination_socket.sendall(request)
         
         # receive data from the destination server
