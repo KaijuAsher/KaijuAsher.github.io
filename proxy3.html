@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Open Window</title>
+	<script>
+		function openWindow() {
+			var link = prompt("Please enter the link you want to open in the new window", "Type Here");
+			if (link != null) {
+				window.open(link, "_blank");
+			}
+		}
+	</script>
+</head>
+<body>
+	<button onclick="openWindow()">Open New Window</button>
+</body>
+</html>
